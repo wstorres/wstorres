@@ -1,7 +1,7 @@
 
 <img href="" src="bannerr.png">
 
-<h1 align="center">Portifolio</h1>
+<h1 align="center">Portifólio</h1>
 
 
 <!---
@@ -23,14 +23,14 @@ para incluir um gif usar o codigo abaixo:
 
 ## 📫 Meus Links
 
- - Meu Portifólio
- - Meu Curriculo
- - Meus Projetos
- - Meu Website
+ - [Meu Portifólio](https://github.com/wstorres)
+ - [Meu Curriculo](https://wstorres.github.io/curriculo-designer/)
+ - [Meus Projetos](#)
+ - [Meu Website](http://mereti.tech)
 
 ## ⚡ Em Desenvolvimento: 
 
-[ by: Wagner Torres](https://github.com/wstorres)
+by [Wagner Torres](https://github.com/wstorres)
 
 
 
