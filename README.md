@@ -1,7 +1,7 @@
 
 <img href="" src="bannerr.png">
 
-<h1 align="center">Portifólio</h1>
+<h1 align="center">Portfólio</h1>
 
 
 <!---
@@ -16,15 +16,15 @@ para incluir um gif usar o codigo abaixo:
 ## 💬 Sobre mim
 
 - @ Consultor de tecnologia
-- 🌱 Desenvolvedor web
+- 🌱 Estudando Front-end developer
 - ♥ Apaixonado por programação
 - 📫 Contato: wav.torres@gmail.com
 - 😄 Github: https://github.com/wstorres
 
 ## 📫 Meus Links
 
- - [Meu Portifólio](https://github.com/wstorres)
- - [Meu Curriculo](https://wstorres.github.io/curriculo-designer/)
+ - [Meu Portfólio](https://github.com/wstorres)
+ - [Meu Currículo](https://wstorres.github.io/curriculo-designer/)
  - [Meus Projetos](#)
  - [Meu Website](http://mereti.tech)
 
