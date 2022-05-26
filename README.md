@@ -15,9 +15,9 @@ para incluir um gif usar o codigo abaixo:
 
 ## 💬 Sobre mim
 
-- @ Consultor de tecnologia
-- 🌱 Estudando Front-end developer
-- ♥ Apaixonado por programação
+- @ Analista Programador
+- 🌱 Front-end developer
+- ♥ Apaixonado por tecnologia
 - 📫 Contato: wav.torres@gmail.com
 - 😄 Github: https://github.com/wstorres
 
