@@ -1,68 +1,53 @@
-
-<img href="" src="HELLO.png">
-
-<h1 align="center">Portfólio</h1>
+<div align="center">
+<img style="border-radius: 65px;" alt="" width="125" height="125" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">
 
 
-<!---
-para incluir um gif usar o codigo abaixo:
+### Olá... Meu nome é **Wagner Torres.**
 
-</p>
-<p align="center">
-<img src="assets/images/screenvideo.gif" align="center" style="border-radius: 10px" />
-</p>
---->
 
-## 💬 Sobre mim
 
-- @ Analista Programador
-- 🌱 Front-end developer
-- ♥ Apaixonado por tecnologia
-- 📫 Contato: wav.torres@gmail.com
-- 😄 Github: https://github.com/wstorres
-
-## 📫 Meus Links
-
- - [Meu Portfólio](https://github.com/wstorres)
- - [Meu Currículo](https://wstorres.github.io/curriculo-designer/)
- - [Meus Projetos](#)
- - [Meu Website](http://mereti.tech)
-
-## ⚡ Em Desenvolvimento: 
-
-by [Wagner Torres](https://github.com/wstorres)
+<sub><strong>Sou especialista em bancos de dados. Trabalhando diaramente com análise de dados, criação de dashboards e programação em Python. Falo sobre tecnologia no meu [Twitter](https://twitter.com/wagner.siltor).</strong></sub>
 
 
 
 
-<p>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="25"> 
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"> 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="25">
-
-</p>
-</p>
+<sub><strong>Segue nas redes sociais para acompanhar mais conteúdo: </strong> <br>
+[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/wstorres)
+[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/wagner.torres.sp/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wagnersiltor/)
+[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/wagner.siltor)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wagner.torres.sp/)
+</sub>
 
 
 
+<div align="center">
+  <a href="https://github.com/wstorres">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wstorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wstorres&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
-<!--
-**pratik-kale20/pratik-kale20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!--
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
 -->
+
+
+
+
+
+  
+  
+  ##
+ 
