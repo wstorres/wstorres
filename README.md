@@ -35,7 +35,7 @@ _________________________
 ### SKILLs 🛠️
 
 - **Languages**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python, SQL, R, C/C++
-- **Web Analytcs**:&nbsp;                 Excel, google Sheets, Tableau
+- **Web Analytcs**:&nbsp;                 Excel, Google Sheets, Tableau
 - **Data Base**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySql, Postgre
 - **DevOps**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux, Git, Docker, CI/CD
 - **Cloud**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS, Azure
@@ -75,7 +75,7 @@ _________________________
 <br />
 
 
-### GITHUB STATUS ⭐
+#### GITHUB STATUS ⭐
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wstorres.wstorres)
 <div align="center">
