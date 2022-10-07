@@ -4,7 +4,7 @@
 
 <br />
 
-<img style="border-radius: 65%;" alt="" width="125" height="125" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">
+<img style="border-radius: 50%;" alt="" width="125" height="125" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">
 
 <br />
 
@@ -23,8 +23,7 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wagnersiltor/)
 [<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/wagner.siltor)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wagner.torres.sp/)
-
-[<img src = "https://img.shields.io/badge/web-%23E4405F.svg?&style=for-the-badge&logo=web&logoColor=white">](https://www.instagram.com/wagner.torres.sp/)
+[<img src = "https://img.shields.io/badge/web-Profile-%163E4405F.svg?&style=for-the-badge&logo=webprofile&logoColor=white">](https://wstorres.github.io/curriculo-designer/)
 
 </sub>
 
