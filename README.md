@@ -55,28 +55,28 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 
 | **Learn**                   | **Organization**    | **Period**  | **Link Certified**   |
 | --------------------------- | ------------------- | ----------- | -------------------- |
-| Cibersecurity Essentials    | Cisco Academy       | Set-2022    | [Visualizar](https://github.com/wstorres/certificados/cs-intro.png)      |
-| ITSM Foundation             | EXIN                | Mai-2009    | [Visualizar](https://github.com/wstorres/certificados/ITSM-EXIN.png)      |
-| ITIL Foundation             | EXIN                | Jun-2009    | [Visualizar](https://github.com/wstorres/certificados/ITILV3.png)      |
-| AWS Cloud Practitioner      | SENAI               | Set-2022    | [Visualizar](#)      |
-| Database Experience         | DIO                 | Ago-2022    | [Visualizar](#)      |
-| Linux Experience            | DIO                 | Jul-2022    | [Visualizar](#)      |
-| Desenvolvedor Mainframe     | UPNGO               | Ago-2009    | [Visualizar](https://github.com/wstorres/certificados/DESENV-MAINFRAME.png)
-| Gerenciamento TI            | Intel               | Jul-2009    | [Visualizar](https://github.com/wstorres/certificados/GERENC-TI-INTEL.png)      |
-| Windows 2000 Server         | ACR-Microsoft       | Jul-2002    | [Visualizar](https://github.com/wstorres/certificados/WIN200-SERVER-MICROSOFT.png)      |
-| Capacitação Suporte Téncico | UOL -INC            |             | [Visualizar](https://github.com/wstorres/certificados/CAPACI-SUPORTE-UOL.png)      |
+| Cibersecurity Essentials    | Cisco Academy       | Set-2022    | [Visualizar](https://github.com/wstorres/certificados-pub/cs-intro.png)      |
+| ITSM Foundation             | EXIN                | Mai-2009    | [Visualizar](https://github.com/wstorres/certificados-pub/ITSM-EXIN.png)      |
+| ITIL Foundation             | EXIN                | Jun-2009    | [Visualizar](https://github.com/wstorres/certificados-pub/ITILV3.png)      |
+| AWS Cloud Practitioner      | SENAI               | Set-2022    | [Visualizar](https://github.com/wstorres/certificados-pub/aws-prac.png)      |
+| Database Experience         | DIO                 | Ago-2022    | [Visualizar](https://github.com/wstorres/certificados-pub/database-experience.png)      |
+| Linux Experience            | DIO                 | Jul-2022    | [Visualizar](https://github.com/wstorres/certificados-pub/linux-experience.png)      |
+| Desenvolvedor Mainframe     | UPNGO               | Ago-2009    | [Visualizar](https://github.com/wstorres/certificados-pub/DESENV-MAINFRAME.png)
+| Gerenciamento TI            | Intel               | Jul-2009    | [Visualizar](https://github.com/wstorres/certificados-pub/GERENC-TI-INTEL.png)      |
+| Windows 2000 Server         | ACR-Microsoft       | Jul-2002    | [Visualizar](https://github.com/wstorres/certificados-pub/WIN200-SERVER-MICROSOFT.png)      |
+| Capacitação Suporte Téncico | UOL -INC            |             | [Visualizar](https://github.com/wstorres/certificados-pub/CAPACI-SUPORTE-UOL.png)      |
 
 
 <br />
 
 ### WORK EXPERIENCE 
 
-| **Job Position**       | **Company**                 | **Field**            | **Work Period**    |
-| ---------------------- | --------------------------- | -------------------- | ------------------ |
-| Analista de TI         | MeriTI Consultoria          | Infra, Dev           | Jan-2009           |  
-| Analista de Sistemas   | Constat Consultoria         | Infra, Dev           | abr-2005 / mar-200 |
-| Analista Sup Sistemas  | MTEL Tecnologia             | Infra                |                    |
-| Tecnico Informnatica   | Consoft Consultoria         | Infra                |                    |
+| **Job Position**       | **Company**                 | **Field**            | **Work Period**     |
+| ---------------------- | --------------------------- | -------------------- | ------------------  |
+| Analista de TI         | MeriTI Consultoria          | Infra, Dev           | Jan-2019 / Atual    |  
+| Analista de Sistemas   | Constat Consultoria         | Infra, Dev           | Abr-2011 / mar-2014 |
+| Analista Sup Sistemas  | MTEL Tecnologia             | Infra                | Mar-2099 / Abr-2010 |
+| Tecnico Informnatica   | Consoft Consultoria         | Infra                | Jan-2006 / Mar-2009 |
 
 <br />
 
