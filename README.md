@@ -24,15 +24,16 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 [<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/wagner.siltor)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wagner.torres.sp/)
 </sub>
+
 </center>
 
 <br />
 
-_________________________
+---
 
 <br />
 
-### SKILLs 🛠️
+### SKILLs
 
 - **Languages**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python, SQL, R, C/C++
 - **Web Analytcs**:&nbsp;                 Excel, Google Sheets, Tableau
@@ -43,14 +44,14 @@ _________________________
 
 <br />
 
-### EDUCATION 🎓
+### EDUCATION
 
-- [Graduação em Ciência de Dados](#) | Universidade Nove de Julho (2022 - 2024)
+- [Graduação em Ciência de Dados](#) | *Universidade Nove de Julho (2022 - 2023)*
 
 
 <br />
 
-### CERTIFICATIONS 📜
+### CERTIFICATIONS 
 
 | **Learn**                   | **Organization**    | **Period**  | **Link Certified**   |
 | --------------------------- | ------------------- | ----------- | -------------------- |
@@ -63,7 +64,7 @@ _________________________
 
 <br />
 
-### WORK EXPERIENCE 👔
+### WORK EXPERIENCE 
 
 | **Job Position**       | **Company**                 | **Field**            | **Work Period**    |
 | ---------------------- | --------------------------- | -------------------- | ------------------ |
@@ -75,9 +76,9 @@ _________________________
 <br />
 
 
-#### GITHUB STATUS ⭐
+#### GITHUB STATUS 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wstorres.wstorres)
+⭐ ![visitors](https://visitor-badge.glitch.me/badge?page_id=wstorres.wstorres)
 <div align="center">
 
   <a href="https://github.com/wstorres">
@@ -88,7 +89,7 @@ _________________________
 
 </div>
 
-__________________________________________________
+---
 
 
 
