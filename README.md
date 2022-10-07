@@ -56,15 +56,15 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 | **Learn**                   | **Organization**    | **Period**  | **Link Certified**   |
 | --------------------------- | ------------------- | ----------- | -------------------- |
 | Cibersecurity Essentials    | Cisco Academy       | Set-2022    | [Visualizar](https://github.com/wstorres/certificados/cs-intro.png)      |
-| ITSM Foundation             | EXIN                | Mai-2009    | [Visualizar]([#](https://github.com/wstorres/certificados/../../../../../certificados/ITSM-EXIN.png.git))      |
-| ITIL Foundation             | EXIN                | Jun-2009    | [Visualizar](https://github.com/wstorres/certificados/../../../../../certificados/ITILV3.png)      |
+| ITSM Foundation             | EXIN                | Mai-2009    | [Visualizar]([#](https://github.com/wstorres/certificados/ITSM-EXIN.png)      |
+| ITIL Foundation             | EXIN                | Jun-2009    | [Visualizar](https://github.com/wstorres/certificados/ITILV3.png)      |
 | AWS Cloud Practitioner      | SENAI               | Set-2022    | [Visualizar](#)      |
 | Database Experience         | DIO                 | Ago-2022    | [Visualizar](#)      |
 | Linux Experience            | DIO                 | Jul-2022    | [Visualizar](#)      |
-| Desenvolvedor Mainframe     | UPNGO               | Ago-2009    | [Visualizar](https://github.com/wstorres/certificados/../../../../../certificados/DESENV-MAINFRAME.png)
-| Gerenciamento TI            | Intel               | Jul-2009    | [Visualizar](https://github.com/wstorres/certificados/../../../../../certificados/GERENC-TI-INTEL.png)      |
-| Windows 2000 Server         | ACR-Microsoft       | Jul-2002    | [Visualizar]([#](https://github.com/wstorres/certificados/../../../../../certificados/WIN200-SERVER-MICROSOFT.png)      |
-| Capacitação Suporte Téncico | UOL -INC            |             | [Visualizar]([#](https://github.com/wstorres/certificados/../../../../../certificados/CAPACI-SUPORTE-UOL.png))      |
+| Desenvolvedor Mainframe     | UPNGO               | Ago-2009    | [Visualizar](https://github.com/wstorres/certificados/DESENV-MAINFRAME.png)
+| Gerenciamento TI            | Intel               | Jul-2009    | [Visualizar](https://github.com/wstorres/certificados/GERENC-TI-INTEL.png)      |
+| Windows 2000 Server         | ACR-Microsoft       | Jul-2002    | [Visualizar]([#](https://github.com/wstorres/certificados/WIN200-SERVER-MICROSOFT.png)      |
+| Capacitação Suporte Téncico | UOL -INC            |             | [Visualizar]([#](https://github.com/wstorres/certificados/CAPACI-SUPORTE-UOL.png))      |
 
 
 <br />
