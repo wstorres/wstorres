@@ -1,4 +1,4 @@
-<center>
+<div align="center"> 
 
 ## WELCOME MY GITHUB
 
@@ -25,7 +25,7 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wagner.torres.sp/)
 </sub>
 
-</center>
+</div>
 
 <br />
 
