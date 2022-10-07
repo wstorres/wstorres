@@ -75,11 +75,12 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 
 <br />
 
-
 #### GITHUB STATUS 
 
-⭐ ![visitors](https://visitor-badge.glitch.me/badge?page_id=wstorres.wstorres)
-<div align="center">
+⭐
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wstorres.wstorres) 
+
+<div align="center"> 
 
   <a href="https://github.com/wstorres">
 
