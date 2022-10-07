@@ -23,7 +23,7 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wagnersiltor/)
 [<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/wagner.siltor)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wagner.torres.sp/)
-[<img src = "https://img.shields.io/badge/web-Profile-%163E4405F.svg?&style=for-the-badge&logo=webprofile&logoColor=white">](https://wstorres.github.io/curriculo-designer/)
+[<img src = "https://img.shields.io/badge/web-Profile-%163E4405F.svg?&style=for-the-badge&logo=webprofile&logoColor=white" target="blanck">](https://wstorres.github.io/curriculo-designer/)
 
 </sub>
 
