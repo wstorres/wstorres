@@ -55,7 +55,7 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 
 | **Learn**                   | **Organization**    | **Period**  | **Link Certified**   |
 | --------------------------- | ------------------- | ----------- | -------------------- |
-| Cibersecurity Introduction  | Cisco Academy       | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/cs-intro.png?raw=true)      |
+| Cybersecurity Introduction  | Cisco Academy       | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/cs-intro.png?raw=true)      |
 | ITSM Foundation             | EXIN                | Mai 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITSM-EXIN.png)      |
 | ITIL Foundation             | EXIN                | Jun 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITILV3.png)      |
 | AWS Cloud Practitioner      | SENAI               | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/aws-prac.png)      |
