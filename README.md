@@ -1,3 +1,36 @@
+<div class="avatar avatar-user width-full border color-bg-default">
+<img align="right" width="400" height="400" style="border-radius: 50%" 
+border="1" hspace="20" src="https://avatars.githubusercontent.com/u/44095306?v=4">
+</div>
+
+<div class="aboutme aboutme-user width-full border color-bg-default">
+<text align="justify" margin-left="20px">
+
+
+### Welcome My Github!
+ 
+ #### I'm WAGNER TORRES
+ 
+
+Data Analyst, Software Developer and open source technology enthusiast. I'm structuring my career in Data Science, Cloud Computing and Cybersecurity technologies. I talk about technology on my [Twitter](https://twitter.com/wstorresbr). 
+ 
+### About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=(https://github.com/wstorres))](https://github.com/wstorres)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:seu_email)
+ 
+<sub>
+
+- Thanks for visiting. 
+ 
+- Enjoy it!! 
+  
+</sub>
+
+</div>
+
+<!--
 <div align="center"> 
 
 ## WELCOME MY GITHUB
@@ -28,12 +61,14 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 </sub>
 
 </div>
+-->
+
 
 ---
 
 <br />
 
-### SKILLs
+### Skills
 
 - **Languages**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python, SQL, R, C/C++
 - **Web Analytcs**:&nbsp;                 Excel, Google Sheets, Tableau
@@ -44,14 +79,15 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 
 <br />
 
-### EDUCATION
+### Education
 
-- [Graduação em Ciência de Dados](#) | *Universidade Nove de Julho (2022 - 2023)*
+- [Graduação em Ciência de Dados](#) | *Universidade Nove de Julho (2022 - Atual)*
+- [Graduação em Gestão de TI](#) | *Universidade Paulista (2003 - 2006)*
 
 
 <br />
 
-### CERTIFICATIONS 
+### Certifications
 
 | **Learn**                   | **Organization**    | **Period**  | **Link Certified**   |
 | --------------------------- | ------------------- | ----------- | -------------------- |
@@ -70,7 +106,7 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 
 <br />
 
-### WORK EXPERIENCE 
+### Work Experience 
 
 | **Job Position**       | **Company**                 | **Field**            | **Work Period**     |
 | ---------------------- | --------------------------- | -------------------- | ------------------  |
@@ -81,9 +117,9 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 
 <br />
 
-#### GITHUB STATUS 
+#### ⭐ Github Status
 
-⭐
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wstorres.wstorres) 
 
 <div align="center"> 
