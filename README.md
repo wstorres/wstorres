@@ -1,5 +1,5 @@
 <div class="avatar avatar-user width-full border color-bg-default">
-<img align="right" width="400" height="400" style="border-radius: 50%" 
+<img align="right" width="300" height="300" style="border-radius: 50%" 
 border="1" hspace="20" src="https://avatars.githubusercontent.com/u/44095306?v=4">
 </div>
 
