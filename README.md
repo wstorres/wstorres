@@ -1,5 +1,5 @@
 <div class="avatar avatar-user width-full border color-bg-default">
-<img align="right" width="300" height="300" style="border-radius: 50%" 
+<img align="right" width="300" height="300" style="border-radius: 200px" 
 border="1" hspace="20" src="https://avatars.githubusercontent.com/u/44095306?v=4">
 </div>
 
@@ -76,6 +76,19 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 - **DevOps**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux, Git, Docker, CI/CD
 - **Cloud**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS, Azure
 
+<br />
+
+### Badges
+
+<div class="avatar avatar-user width-full border color-bg-default" align="center">
+
+<img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/badge-cybersecurity01.png?raw=true">
+
+<img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/Badge-ITSM.png?raw=true">
+
+<img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/badge-ITIL.png?raw=true">
+
+</div>
 
 <br />
 
