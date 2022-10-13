@@ -9,7 +9,7 @@ border="1" hspace="20" src="https://avatars.githubusercontent.com/u/44095306?v=4
 
 ### Welcome My Github!
  
- #### I'm WAGNER TORRES
+#### I'm WAGNER TORRES
  
 
 Data Analyst, Software Developer and open source technology enthusiast. I'm structuring my career in Data Science, Cloud Computing and Cybersecurity technologies. I talk about technology on my [Twitter](https://twitter.com/wstorresbr). 
@@ -35,7 +35,8 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 ---
 
-<center><h3>⭐ Achievements ⭐</h3></center>
+<h3 align="center">⭐ Achievements ⭐</h3>
+
 
 <br />
 
