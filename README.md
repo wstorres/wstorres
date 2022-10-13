@@ -32,14 +32,14 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 <br />
 
-____________________________
+---
 
-
-<center>
+<text align="center"> 
 
 ### ⭐ Achievements ⭐
 
-</center>
+</text>
+
 
 <br />
 
