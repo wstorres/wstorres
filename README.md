@@ -30,38 +30,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 </div>
 
-<!--
-<div align="center"> 
-
-## WELCOME MY GITHUB
-
 <br />
-
-<img style="border-radius: 50%;" alt="" width="125" height="125" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/44095306?v=4">
-
-<br />
-
-### Olá... Meu nome é **Wagner Torres.**
-
-
-
-Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estruturando a minha carreira nas tecnologias de Cloud Computing, Data Science e Cybersecurity. Falo sobre tecnologia no meu [Twitter](https://twitter.com/wagnertorresbr)
-
-
-<br />
-
-<sub> <strong>Minhas Redes Sociais: </strong> <br>
-[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/wstorres)
-[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/wagner.torres.sp/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wagnersiltor/)
-[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/wagner.siltor)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wagner.torres.sp/)
-[<img src = "https://img.shields.io/badge/web-Profile-%163E4405F.svg?&style=for-the-badge&logo=webprofile&logoColor=white" target="_blank">](https://wstorres.github.io/curriculo-designer/)
-
-</sub>
-
-</div>
--->
 
 ____________________________
 
@@ -73,7 +42,6 @@ ____________________________
 </center>
 
 <br />
-
 
 
 <div class="avatar avatar-user width-full border color-bg-default" align="center">
@@ -98,7 +66,6 @@ ____________________________
 - **Cloud**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS, Azure
 
 <br />
-
 
 
 ### Education
@@ -128,21 +95,10 @@ ____________________________
 
 <br />
 
+### New Projects 
 
-### New projects 
+**[Updating ...](#)**
 
-
-**Updating...**
-
-<div class="avatar avatar-user width-full border color-bg-default" align="center">
-
-<img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/badge-cybersecurity01.png?raw=true">
-
-<img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/Badge-ITSM.png?raw=true">
-
-<img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/badge-ITIL.png?raw=true">
-
-</div>
 
 <br />
 
@@ -172,7 +128,7 @@ ____________________________
 
 </div>
 
----
+
 
 
 
