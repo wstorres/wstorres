@@ -63,22 +63,18 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 </div>
 -->
 
+____________________________
 
----
 
-<br />
+<center>
 
-### Skills
+### ⭐ Achievements ⭐
 
-- **Languages**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python, SQL, R, C/C++
-- **Web Analytcs**:&nbsp;                 Excel, Google Sheets, Tableau
-- **Data Base**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySql, Postgre
-- **DevOps**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux, Git, Docker, CI/CD
-- **Cloud**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS, Azure
+</center>
 
 <br />
 
-### Badges
+
 
 <div class="avatar avatar-user width-full border color-bg-default" align="center">
 
@@ -91,6 +87,19 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 </div>
 
 <br />
+
+---
+### Skills
+
+- **Languages**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python, SQL, R, C/C++
+- **Web Analytcs**:&nbsp;                 Excel, Google Sheets, Tableau
+- **Data Base**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySql, Postgre
+- **DevOps**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux, Git, Docker, CI/CD
+- **Cloud**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS, Azure
+
+<br />
+
+
 
 ### Education
 
@@ -119,6 +128,24 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 
 <br />
 
+
+### New projects 
+
+
+**Updating...**
+
+<div class="avatar avatar-user width-full border color-bg-default" align="center">
+
+<img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/badge-cybersecurity01.png?raw=true">
+
+<img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/Badge-ITSM.png?raw=true">
+
+<img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/badge-ITIL.png?raw=true">
+
+</div>
+
+<br />
+
 ### Work Experience 
 
 | **Job Position**       | **Company**                 | **Field**            | **Work Period**     |
@@ -130,7 +157,7 @@ Sou desenvolvedor de software e entusiasta em tecnologia open source. Estou estr
 
 <br />
 
-#### ⭐ Github Status
+#### Github Status
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wstorres.wstorres) 
