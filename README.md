@@ -19,6 +19,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wstorres/)](https://www.linkedin.com/in/wstorres/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511946615045&text=Hello!)](https://api.whatsapp.com/send?phone=5511946615045&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-914431?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wav.torres@gmail.com)](mailto:wav.torres@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-927?style=flat-square&logo=Website&logoColor=white&link=#)](https://wstorres.github.io/curriculo-designer/)
  
 <sub>
 
@@ -34,12 +35,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 ---
 
-<text align="center"> 
-
-### ⭐ Achievements ⭐
-
-</text>
-
+<center><h3>⭐ Achievements ⭐</h3></center>
 
 <br />
 
