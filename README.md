@@ -95,12 +95,14 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 ### New Projects 
 **[Updating ...](#)**
 
+<div class="projetos projetos-user width-full border color-bg-default" align="center">
+
 
 <table>
     <thead>
         <tr>
             <th>
-                <a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome<br>DevTools</a>
+                <a href="https://developers.google.com/web/tools/chrome-devtools/">Curriculo Web<br>WebSite</a>
             </th>
         </tr>
     </thead>
@@ -108,27 +110,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
         <tr height=170>
             <td>
                 <a href="chrome-devtools">
-                    <img width="#" alt="Chrome DevTools Logo">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://developers.google.com/web/tools/chrome-devtools/">Curriculo Web<br>Website</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="chrome-devtools">
-                    <img width="https://raw.githubusercontent.com/wstorres/certificados-pub/main/DESENV-MAINFRAME.png" alt="Chrome DevTools Logo">
+                    <img align="justify" width="100" height="100" border="" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/deploy10.png?raw=true">
                 </a>
             </td>
         </tr>
@@ -139,7 +121,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
     <thead>
         <tr>
             <th>
-                <a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome<br>DevTools</a>
+                <a href="https://developers.google.com/web/tools/chrome-devtools/">AE Transportes<br>WebSite</a>
             </th>
         </tr>
     </thead>
@@ -147,7 +129,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
         <tr height=170>
             <td>
                 <a href="chrome-devtools">
-                    <img width="#" alt="Chrome DevTools Logo">
+                    <img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/deploy10.png?raw=true">
                 </a>
             </td>
         </tr>
