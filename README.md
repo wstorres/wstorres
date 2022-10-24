@@ -80,7 +80,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 | Cybersecurity Introduction  | Cisco Academy       | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/cs-intro.png?raw=true)      |
 | ITSM Foundation             | EXIN                | Mai 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITSM-EXIN.png)      |
 | ITIL Foundation             | EXIN                | Jun 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITILV3.png)      |
-| AWS Cloud Practitioner      | SENAI               | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/aws-prac.png)      |
+| AWS Cloud Practitioner      | SENAI               | Set 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/certificado-aws-senai.png)      |
 | Google Data Analytics       | Google Academy      | Out 2022    | [Visualizar](#)
 | Database Experience         | DIO                 | Ago 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/database-experience.png)      |
 | Linux Experience            | DIO                 | Jul 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/linux-experience.png)      |
@@ -93,11 +93,74 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 <br />
 
 ### New Projects 
-
 **[Updating ...](#)**
 
 
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome<br>DevTools</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="chrome-devtools">
+                    <img width="#" alt="Chrome DevTools Logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://developers.google.com/web/tools/chrome-devtools/">Curriculo Web<br>Website</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="chrome-devtools">
+                    <img width="https://raw.githubusercontent.com/wstorres/certificados-pub/main/DESENV-MAINFRAME.png" alt="Chrome DevTools Logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome<br>DevTools</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr height=170>
+            <td>
+                <a href="chrome-devtools">
+                    <img width="#" alt="Chrome DevTools Logo">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+</div>
+
 <br />
+
+
+
 
 ### Work Experience 
 
