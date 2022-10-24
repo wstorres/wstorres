@@ -1,6 +1,6 @@
 <div class="avatar avatar-user width-full border color-bg-default">
 <img align="right" width="300" height="300" style="border-radius: 200px" 
-border="1" hspace="20" src="https://avatars.githubusercontent.com/u/44095306?v=4">
+border="1" hspace="20" src="./img/computer-illustration.png">
 </div>
 
 <div class="aboutme aboutme-user width-full border color-bg-default">
