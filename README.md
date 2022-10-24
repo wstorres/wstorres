@@ -95,7 +95,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 ### New Projects 
 **[Updating ...](#)**
          
-<div class="projetos projetos-user width-full border color-bg-default" align="right">
+<div class="projetos projetos-user width-full border color-bg-default" align="left">
 
 
 <table>
