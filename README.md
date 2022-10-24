@@ -1,5 +1,5 @@
 <div class="avatar avatar-user width-full border color-bg-default">
-<img align="right" width="300" height="300" style="border-radius: 200px" 
+<img align="right" width="300" height="300" style="border-radius: 40px" 
 border="1" hspace="20" src="./img/computer-illustration.png">
 </div>
 
@@ -80,7 +80,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 | Cybersecurity Introduction  | Cisco Academy       | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/cs-intro.png?raw=true)      |
 | ITSM Foundation             | EXIN                | Mai 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITSM-EXIN.png)      |
 | ITIL Foundation             | EXIN                | Jun 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITILV3.png)      |
-| AWS Cloud Practitioner      | SENAI               | Set 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/certificado-aws-senai.png)      |
+| AWS Cloud Practitioner      | SENAI               | Set 2022    | [Visualizar](https://www.linkedin.com/feed/update/urn:li:activity:6989566107661578240/)      |
 | Google Data Analytics       | Google Academy      | Out 2022    | [Visualizar](#)
 | Database Experience         | DIO                 | Ago 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/database-experience.png)      |
 | Linux Experience            | DIO                 | Jul 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/linux-experience.png)      |
