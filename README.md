@@ -95,14 +95,14 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 ### New Projects 
 **[Updating ...](#)**
          
-<div class="projetos projetos-user width-full border color-bg-default" align="center">
+<div class="projetos projetos-user width-full border color-bg-default" align="right">
 
 
 <table>
     <thead>
         <tr>
             <th>
-                <a href="https://www.linkedin.com/in/wstorres/">Web Curriculo <br>Website</a>
+                <a href="https://github.com/wstorres">Web Curriculo <br>Website</a>
             </th>
         </tr>
     </thead>
