@@ -125,7 +125,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 [<img align="left" height="150" width="150px" alt="Warpnet" hspace="20" src="./img/deploy10.png"/>](https://wstorres.github.io/curriculo-designer/)
 
 **Personal Curriculum** \
-[**web-profile**](https://www.spacex.com/) • Full-time \
+[**web-profile**](https://wstorres.github.io/curriculo-designer/) • Full-time \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Github Pages`, \
 Projetos em destaque: [Rocket](#), [Marte](#)
 
