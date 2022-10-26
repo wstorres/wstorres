@@ -1,7 +1,7 @@
 <div class="avatar avatar-user width-full border color-bg-default">
 
 <img align="right" width="300" height="300" style="border-radius: 50%" 
-border="1" hspace="20" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+hspace="20" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <!--
 <img align="right" width="300" height="300" style="border-radius: 40px" 
@@ -37,7 +37,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 </div>
 
-<br />
+<br/>
 
 ---
 
@@ -59,6 +59,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 <br />
 
+
 ---
 ### Skills
 
@@ -78,6 +79,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 
 <br />
+
 
 ### Certifications
 
@@ -114,16 +116,20 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 ### New Projects 
 **[Updating ...](#)** New Projects section you will find my most recent work experience:
+
+
+<text align="justify" margin-left="20px">
          
 
 
-[<img align="left" height="200" width="200px" alt="Warpnet" hspace="20" src="./img/deploy10.png"/>](https://wstorres.github.io/curriculo-designer/)
+[<img align="left" height="150" width="150px" alt="Warpnet" hspace="20" src="./img/deploy10.png"/>](https://wstorres.github.io/curriculo-designer/)
 
 **Personal Curriculum** \
 [**web-profile**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `HTML`, `CSS`,, `JavaScript`, `Github Pages`, \
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
-<br/>
+Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Github Pages`, \
+Projetos em destaque: [Rocket](#), [Marte](#)
+
+<br />
 
 <!--
 [<img align="left" height="200px" width="200px" alt="Rocketseat" hspace="20" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
@@ -134,25 +140,17 @@ Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
 Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
 
-[<img align="left" height="200px" width="200px" alt="Nubank" hspace="20" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
-
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
-
 -->
 
+</div>
 
 
 <br />
-
 <br />
 
 
 
 #### Github Status
-
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wstorres.wstorres) 
 
