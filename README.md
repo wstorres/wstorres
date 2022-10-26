@@ -1,6 +1,13 @@
 <div class="avatar avatar-user width-full border color-bg-default">
+
+<img align="right" width="300" height="300" style="border-radius: 50%" 
+border="1" hspace="20" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+<!--
 <img align="right" width="300" height="300" style="border-radius: 40px" 
 border="1" hspace="20" src="./img/computer-illustration.png">
+-->
+
 </div>
 
 <div class="aboutme aboutme-user width-full border color-bg-default">
@@ -18,8 +25,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=(https://github.com/wstorres))](https://github.com/wstorres)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wstorres/)](https://www.linkedin.com/in/wstorres/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511946615045&text=Hello!)](https://api.whatsapp.com/send?phone=5511946615045&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-914431?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wav.torres@gmail.com)](mailto:wav.torres@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-927?style=flat-square&logo=Website&logoColor=white&link=#)](https://wstorres.github.io/curriculo-designer/)
+
  
 <sub>
 
@@ -92,37 +98,6 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 <br />
 
-### New Projects 
-**[Updating ...](#)**
-         
-<div class="projetos projetos-user width-full border color-bg-default" align="left">
-
-
-<table>
-    <thead>
-        <tr>
-            <th>
-                <a href="https://github.com/wstorres">Web Curriculo <br>Website</a>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr height=170>
-            <td>
-                <a href="chrome-devtools">
-                    <img align="justify" width="100" height="100" border="" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/deploy10.png?raw=true">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>   
-
-
-</div>
-
-<br />
-
-
 
 
 ### Work Experience 
@@ -135,6 +110,46 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 | Tecnico Informnatica   | Consoft Consultoria         | Infra                | Jan 2006 / Mar 2009 |
 
 <br />
+
+
+### New Projects 
+**[Updating ...](#)** New Projects section you will find my most recent work experience:
+         
+
+
+[<img align="left" height="200" width="200px" alt="Warpnet" hspace="20" src="./img/deploy10.png"/>](https://wstorres.github.io/curriculo-designer/)
+
+**Personal Curriculum** \
+[**web-profile**](https://www.spacex.com/) • Full-time \
+Linguagens & Tecnologias: `HTML`, `CSS`,, `JavaScript`, `Github Pages`, \
+Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+<br/>
+
+<!--
+[<img align="left" height="200px" width="200px" alt="Rocketseat" hspace="20" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+
+**Frot-end Developer (Jr)** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Projetos em destaque: [Ignite](), [Bootcamp]()
+<br/>
+
+[<img align="left" height="200px" width="200px" alt="Nubank" hspace="20" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+
+**Software Engineer** \
+[**Nubank**](https://nubank.com.br/) • Contract \
+Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Projetos em destaque: [App](https://nubank.com.br/)
+
+-->
+
+
+
+<br />
+
+<br />
+
+
 
 #### Github Status
 
