@@ -1,7 +1,7 @@
 <div class="avatar avatar-user width-full border color-bg-default">
 
-<img align="right" width="300" height="300" style="border-radius: 0%" 
-hspace="20" src="./img/programmer-rounded-edges.gif">
+<img align="right" width="300" height="300" style="border-radius: 50%" 
+border="0" hspace="20" src="./img/programmer-rounded-edges.gif">
 
 <!--
 <img align="right" width="300" height="300" style="border-radius: 40px" 
@@ -119,7 +119,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 
 
-[<img align="left" height="94px" width="94px" hspace="20" alt="Warpnet" src="./img/deploy10.png"/>](#)
+[<img align="left" height="94px" width="94px" hspace="20" alt="Warpnet" src="./img/deploy10.png"/>]([#](https://github.com/wstorres))
 
 **Front-end Developer** \
 [**Web Profile**](#) • Full-time \
