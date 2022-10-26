@@ -1,7 +1,7 @@
 <div class="avatar avatar-user width-full border color-bg-default">
 
-<img align="right" width="300" height="300" style="border-radius: 50%" 
-hspace="20" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="350" height="350" style="border-radius: 0%" 
+hspace="20" src="./img/programmer-rounded-edges.gif">
 
 <!--
 <img align="right" width="300" height="300" style="border-radius: 40px" 
@@ -124,9 +124,20 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 [<img align="left" height="150" width="150px" alt="Warpnet" hspace="20" src="./img/deploy10.png"/>](https://wstorres.github.io/curriculo-designer/)
 
-**Personal Curriculum** \
-[**web-profile**](https://wstorres.github.io/curriculo-designer/) • Full-time \
+**http://wstorres.github.io/curriculo-designer** \
+[**website**](https://wstorres.github.io/curriculo-designer/) • Full-time \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Github Pages`, \
+Projetos em destaque: [Rocket](#), [Marte](#)
+
+<br />
+
+
+[<img align="left" height="150" width="150px" alt="Warpnet" hspace="20" src="./img/ae-transportes.png"/>](https://wstorres.github.io/ae-transportes/)
+
+**http://www.ae-transportes.com.br** \
+[**website**](https://wstorres.github.io/ae-transportes/) • Full-time \
+• Website desenvolvido para transportadora para AE-Tranportres ME
+Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Github Pages`, `Bootstrap`, \
 Projetos em destaque: [Rocket](#), [Marte](#)
 
 <br />
