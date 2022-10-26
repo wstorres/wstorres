@@ -1,6 +1,6 @@
 <div class="avatar avatar-user width-full border color-bg-default">
 
-<img align="right" width="350" height="350" style="border-radius: 0%" 
+<img align="right" width="300" height="300" style="border-radius: 0%" 
 hspace="20" src="./img/programmer-rounded-edges.gif">
 
 <!--
@@ -118,28 +118,25 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 **[Updating ...](#)** New Projects section you will find my most recent work experience:
 
 
-<text align="justify" margin-left="20px">
+
          
 
 
-[<img align="left" height="150" width="150px" alt="Warpnet" hspace="20" src="./img/deploy10.png"/>](https://wstorres.github.io/curriculo-designer/)
+[<img align="left" height="200" width="200px" alt="Warpnet" hspace="20" src="./img/deploy10.png"/>](https://wstorres.github.io/curriculo-designer/)
 
 **http://wstorres.github.io/curriculo-designer** \
 [**website**](https://wstorres.github.io/curriculo-designer/) • Full-time \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Github Pages`, \
 Projetos em destaque: [Rocket](#), [Marte](#)
-
 <br />
 
 
-[<img align="left" height="150" width="150px" alt="Warpnet" hspace="20" src="./img/ae-transportes.png"/>](https://wstorres.github.io/ae-transportes/)
+[<img align="left" height="200" width="200px" alt="Warpnet" hspace="20" src="./img/ae-transportes.png"/>](https://wstorres.github.io/ae-transportes)
 
 **http://www.ae-transportes.com.br** \
 [**website**](https://wstorres.github.io/ae-transportes/) • Full-time \
-• Website desenvolvido para transportadora para AE-Tranportres ME
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Github Pages`, `Bootstrap`, \
 Projetos em destaque: [Rocket](#), [Marte](#)
-
 <br />
 
 <!--
@@ -153,7 +150,7 @@ Projetos em destaque: [Ignite](), [Bootcamp]()
 
 -->
 
-</div>
+
 
 
 <br />
