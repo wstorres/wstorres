@@ -1,6 +1,6 @@
-<div class="avatar avatar-user width-full border color-bg-default">
+<div class="avatar avatar-user width-full">
 
-<img align="right" width="300" height="300" style="border-radius: 50%" 
+<img align="right" width="270" height="270" style="border-radius:50%" 
 hspace="20" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <!--
