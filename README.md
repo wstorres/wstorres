@@ -119,41 +119,34 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 
 
-         
+[<img align="left" height="94px" width="94px" hspace="20" alt="Warpnet" src="./img/deploy10.png"/>](#)
 
-
-[<img align="left" height="200" width="200px" alt="Warpnet" hspace="20" src="./img/deploy10.png"/>](https://wstorres.github.io/curriculo-designer/)
-
-**http://wstorres.github.io/curriculo-designer** \
-[**website**](https://wstorres.github.io/curriculo-designer/) • Full-time \
-Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Github Pages`, \
+**Front-end Developer** \
+[**Web Profile**](#) • Full-time \
+Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Github Pages`,\
 Projetos em destaque: [Rocket](#), [Marte](#)
-<br />
-
-
-[<img align="left" height="200" width="200px" alt="Warpnet" hspace="20" src="./img/ae-transportes.png"/>](https://wstorres.github.io/ae-transportes)
-
-**http://www.ae-transportes.com.br** \
-[**website**](https://wstorres.github.io/ae-transportes/) • Full-time \
-Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Github Pages`, `Bootstrap`, \
-Projetos em destaque: [Rocket](#), [Marte](#)
-<br />
-
-<!--
-[<img align="left" height="200px" width="200px" alt="Rocketseat" hspace="20" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
-
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Rocketseat" hspace="20" src="./img/ae-transportes.png"/>](#)
+
+**Frot-end Developer** \
+[**AE-Transportes**](#/) • Contract \
+Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Github Pages`,\
+Projetos em destaque: [Ignite](#), [Bootcamp](#)
+<br/>
+
+<!--
+
+[<img align="left" height="94px" width="94px" alt="Nubank" hspace="20" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+
+**Software Engineer** \
+[**Nubank**](https://nubank.com.br/) • Contract \
+Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Projetos em destaque: [App](https://nubank.com.br/)
+<br/>
 -->
 
-
-
-
-<br />
+<br/>
 <br />
 
 
