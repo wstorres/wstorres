@@ -1,6 +1,6 @@
 <div class="avatar avatar-user width-full border color-bg-default">
 
-<img align="right" width="300" height="300" style="border-radius: 50%" 
+<img align="right" width="300" height="300" style="border-radius: 5%" 
 border="0" hspace="20" src="./img/programmer-rounded-edges.gif">
 
 <!--
@@ -85,7 +85,8 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 | **Learn**                   | **Organization**    | **Period**  | **Link Certified**   |
 | --------------------------- | ------------------- | ----------- | -------------------- |
-|Lean Six Sigma -  White Belt | GC & Banco Itaú     | Out 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/white-belt-6S.png?raw=true)      |
+|Lean Six Sigma -  White Belt | Banco Itaú & GC     | Out 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/white-belt-6S.png?raw=true)      |
+|Banco de Dados               | UNIVESP             | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/banco-dados-univesp.png?raw=true)      |
 | Cybersecurity Introduction  | Cisco Academy       | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/cs-intro.png?raw=true)      |
 | ITSM Foundation             | EXIN                | Mai 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITSM-EXIN.png)      |
 | ITIL Foundation             | EXIN                | Jun 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITILV3.png)      |
