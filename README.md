@@ -1,7 +1,7 @@
 <div class="avatar avatar-user width-full border color-bg-default">
 
-<img align="right" width="300" height="300" style="border-radius: 5%" 
-border="0" hspace="20" src="./img/programmer-rounded-edges.gif">
+<img align="right" width="350" height="300" style="border-radius: 5%" 
+border="0" hspace="20" src="./img/giphy.gif">
 
 <!--
 <img align="right" width="300" height="300" style="border-radius: 40px" 
