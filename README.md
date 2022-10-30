@@ -55,6 +55,8 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 <img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/badge-ITIL.png?raw=true">
 
+<img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/CSSC-WB-Final.png?raw=true">
+
 </div>
 
 <br />
@@ -83,21 +85,21 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 ### Certifications
 
-| **Learn**                   | **Organization**    | **Period**  | **Link Certified**   |
-| --------------------------- | ------------------- | ----------- | -------------------- |
-|Lean Six Sigma -  White Belt | Banco Itaú & GC     | Out 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/white-belt-6S.png?raw=true)      |
-|Banco de Dados               | UNIVESP             | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/banco-dados-univesp.png?raw=true)      |
-| Cybersecurity Introduction  | Cisco Academy       | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/cs-intro.png?raw=true)      |
-| ITSM Foundation             | EXIN                | Mai 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITSM-EXIN.png)      |
-| ITIL Foundation             | EXIN                | Jun 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITILV3.png)      |
-| AWS Cloud Practitioner      | SENAI               | Set 2022    | [Visualizar](https://www.linkedin.com/feed/update/urn:li:activity:6989566107661578240/)      |
-| Google Data Analytics       | Google Academy      | Out 2022    | [Visualizar](#)
-| Database Experience         | DIO                 | Ago 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/database-experience.png)      |
-| Linux Experience            | DIO                 | Jul 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/linux-experience.png)      |
-| Desenvolvedor Mainframe     | UPNGO               | Ago 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/DESENV-MAINFRAME.png)
-| Gerenciamento TI            | Intel               | Jul 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/GERENC-TI-INTEL.png)      |
-| Windows 2000 Server         | ACR-Microsoft       | Jul 2002    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/WIN200-SERVER-MICROSOFT.png)      |
-| Capacitação Suporte Téncico | UOL - INC           | Mar 2002    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/CAPACI-SUPORTE-UOL.png)      |
+| **Learn**                    | **Organization**    | **Period**  | **Link Certified**   |
+| ---------------------------  | ------------------- | ----------- | -------------------- |
+| Lean Six Sigma -  White Belt | Banco Itaú & GC     | Out 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/white-belt-6S.png?raw=true)      |
+| Banco de Dados               | UNIVESP             | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/banco-dados-univesp.png?raw=true)      |
+| Cybersecurity Introduction   | Cisco Academy       | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/cs-intro.png?raw=true)      |
+| ITSM Foundation              | EXIN                | Mai 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITSM-EXIN.png)      |
+| ITIL Foundation              | EXIN                | Jun 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITILV3.png)      |
+| AWS Cloud Practitioner       | SENAI               | Set 2022    | [Visualizar](https://www.linkedin.com/feed/update/urn:li:activity:6989566107661578240/)      |
+| Google Data Analytics        | Google Academy      | Out 2022    | [Visualizar](#)
+| Database Experience          | DIO                 | Ago 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/database-experience.png)      |
+| Linux Experience             | DIO                 | Jul 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/linux-experience.png)      |
+| Desenvolvedor Mainframe      | UPNGO               | Ago 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/DESENV-MAINFRAME.png)
+| Gerenciamento TI             | Intel               | Jul 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/GERENC-TI-INTEL.png)      |
+| Windows 2000 Server          | ACR-Microsoft       | Jul 2002    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/WIN200-SERVER-MICROSOFT.png)      |
+| Capacitação Suporte Téncico  | UOL - INC           | Mar 2002    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/CAPACI-SUPORTE-UOL.png)      |
 
 
 <br />
@@ -106,12 +108,13 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 ### Work Experience 
 
-| **Job Position**       | **Company**                 | **Field**            | **Work Period**     |
-| ---------------------- | --------------------------- | -------------------- | ------------------  |
-| Analista de TI         | MeriTI Consultoria          | Infra, Dev           | Jan 2019 / Atual    |  
-| Analista de Sistemas   | Constat Consultoria         | Infra, Dev           | Abr 2011 / Mar 2014 |
-| Analista Sup Sistemas  | MTEL Tecnologia             | Infra                | Mar 2099 / Abr 2010 |
-| Tecnico Informnatica   | Consoft Consultoria         | Infra                | Jan 2006 / Mar 2009 |
+| **Job Position**       | **Company**                            | **Field**            | **Work Period**     |
+| ---------------------- | ---------------------------            | -------------------- | ------------------  |
+| Analista de TI         | Wtime Consultoria Empresarial          | Infra                | Nov 2022 / Atual    |  
+| Analista de TI         | MeriTI Consultoria                     | Infra, Dev           | Jan 2019 / Out 2022 |  
+| Analista de Sistemas   | Constat Consultoria                    | Infra, Dev           | Abr 2011 / Mar 2014 |
+| Analista Sup Sistemas  | MTEL Tecnologia                        | Infra                | Mar 2099 / Abr 2010 |
+| Tecnico Informnatica   | Consoft Consultoria                    | Infra                | Jan 2006 / Mar 2009 |
 
 <br />
 
@@ -147,7 +150,6 @@ Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift`
 Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 -->
-
 <br/>
 <br />
 
