@@ -1,39 +1,27 @@
 <div class="avatar avatar-user width-full border color-bg-default">
-
-<img align="right" width="300" height="300" style="border-radius: 5%" 
-border="0" hspace="20" src="./img/programmer-rounded-edges.gif">
-
-<!--
-<img align="right" width="300" height="300" style="border-radius: 40px" 
-border="1" hspace="20" src="./img/computer-illustration.png">
--->
-
-</div>
+  <img align="right" width="300" height="300" style="border-radius: 5%" 
+  border="0" hspace="20" src="./img/programmer-rounded-edges.gif">
+</div>  
 
 <div class="aboutme aboutme-user width-full border color-bg-default">
-<text align="justify" margin-left="20px">
-
+  <text align="justify" margin-left="20px">
 
 ### Welcome My Github!
- 
 #### I'm WAGNER TORRES
- 
 
-Data Analyst, Software Developer and open source technology enthusiast. I'm structuring my career in Data Science, Cloud Computing and Cybersecurity technologies. I talk about technology on my [Twitter](https://twitter.com/wstorresbr). 
+  Data Analyst, Software Developer and open source technology enthusiast. I'm structuring my career in Data Science, Cloud Computing and Cybersecurity technologies. I talk about technology on my [Twitter](https://twitter.com/wstorresbr). 
  
 ### About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=(https://github.com/wstorres))](https://github.com/wstorres)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wstorres/)](https://www.linkedin.com/in/wstorres/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511946615045&text=Hello!)](https://api.whatsapp.com/send?phone=5511946615045&text=Hello!)
+
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=(https://github.com/wstorres))](https://github.com/wstorres)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wstorres/)](https://www.linkedin.com/in/wstorres/)
+  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511946615045&text=Hello!)](https://api.whatsapp.com/send?phone=5511946615045&text=Hello!)
 
  
-<sub>
-
-- Thanks for visiting. 
- 
-- Enjoy it!! 
-  
-</sub>
+  <sub>
+    - Thanks for visiting. 
+    - Enjoy it!! 
+  </sub>
 
 </div>
 
@@ -159,6 +147,7 @@ Projetos em destaque: [App](https://nubank.com.br/)
 #### Github Status
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wstorres.wstorres) 
+
 
 <div align="center"> 
 
