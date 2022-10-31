@@ -14,12 +14,15 @@
 ### About me 
 
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=(https://github.com/wstorres))](https://github.com/wstorres)
+
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wstorres/)](https://www.linkedin.com/in/wstorres/)
+
   [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511946615045&text=Hello!)](https://api.whatsapp.com/send?phone=5511946615045&text=Hello!)
 
  
   <sub>
     - Thanks for visiting. 
+  
     - Enjoy it!! 
   </sub>
 
@@ -75,7 +78,7 @@
 
 | **Learn**                    | **Organization**    | **Period**  | **Link Certified**   |
 | ---------------------------  | ------------------- | ----------- | -------------------- |
-| Lean Six Sigma White Belt | Official Certification CSSC     | Out 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/Lean_Six_Sigma_White_Belt_Official_Certification.pdf?raw=true)      |
+| Lean Six Sigma White Belt | Official Certification CSSC     | Out 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/l6s-white-belt-oficial.png?target="_blank")      |
 | Banco de Dados               | UNIVESP             | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/banco-dados-univesp.png?raw=true)      |
 | Cybersecurity Introduction   | Cisco Academy       | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/cs-intro.png?raw=true)      |
 | ITSM Foundation              | EXIN                | Mai 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITSM-EXIN.png?raw=true)      |
