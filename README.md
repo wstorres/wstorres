@@ -87,20 +87,20 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 
 | **Learn**                    | **Organization**    | **Period**  | **Link Certified**   |
 | ---------------------------  | ------------------- | ----------- | -------------------- |
-| Lean Six Sigma -  White Belt |CAE Treinamentos     | Out 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/white-belt-6S.png?raw=true)      |
+| Lean Six Sigma White Belt | Official Certification CSSC     | Out 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/Lean_Six_Sigma_White_Belt_Official_Certification.pdf?raw=true)      |
 | Banco de Dados               | UNIVESP             | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/banco-dados-univesp.png?raw=true)      |
 | Cybersecurity Introduction   | Cisco Academy       | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/cs-intro.png?raw=true)      |
-| ITSM Foundation              | EXIN                | Mai 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITSM-EXIN.png)      |
-| ITIL Foundation              | EXIN                | Jun 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITILV3.png)      |
+| ITSM Foundation              | EXIN                | Mai 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITSM-EXIN.png?raw=true)      |
+| ITIL Foundation              | EXIN                | Jun 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITILV3.png?raw=true)      |
 | AWS Cloud Practitioner       | SENAI               | Set 2022    | [Visualizar](https://www.linkedin.com/feed/update/urn:li:activity:6989566107661578240/)      |
 | Google Data Analytics        | Google Academy      | Out 2022    | [Visualizar](#)
-| Database Experience          | DIO                 | Ago 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/database-experience.png)      |
-| Linux Experience             | DIO                 | Jul 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/linux-experience.png)      |
-| Auditor Interno ISO 9001     | Constat             | Ago 2013    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/DESENV-MAINFRAME.png)
-| Desenvolvedor Mainframe      | UPNGO               | Ago 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/DESENV-MAINFRAME.png)
-| Gerenciamento TI             | Intel               | Jul 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/GERENC-TI-INTEL.png)      |
-| Windows 2000 Server          | ACR-Microsoft       | Jul 2002    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/WIN200-SERVER-MICROSOFT.png)      |
-| Capacitação Suporte Téncico  | UOL - INC           | Mar 2002    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/CAPACI-SUPORTE-UOL.png)      |
+| Database Experience          | DIO                 | Ago 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/database-experience.png?raw=true)      |
+| Linux Experience             | DIO                 | Jul 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/linux-experience.png?raw=true)      |
+| Auditor Interno ISO 9001     | Constat             | Ago 2013    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/ISO-9001-certificado.jpg?raw=true)
+| Desenvolvedor Mainframe      | UPNGO               | Ago 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/DESENV-MAINFRAME.png?raw=true)
+| Gerenciamento TI             | Intel               | Jul 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/GERENC-TI-INTEL.png?raw=true)      |
+| Windows 2000 Server          | ACR-Microsoft       | Jul 2002    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/WIN200-SERVER-MICROSOFT.png?raw=true)      |
+| Capacitação Suporte Téncico  | UOL - INC           | Mar 2002    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/CAPACI-SUPORTE-UOL.png?raw=true)      |
 
 
 <br />
