@@ -1,7 +1,7 @@
 <div class="avatar avatar-user width-full border color-bg-default">
 
-<img align="right" width="300" height="200" style="border-radius: 5%" 
-border="0" hspace="20" src="./img/giphy.gif">
+<img align="right" width="300" height="300" style="border-radius: 5%" 
+border="0" hspace="20" src="./img/programmer-rounded-edges.gif">
 
 <!--
 <img align="right" width="300" height="300" style="border-radius: 40px" 
@@ -96,6 +96,7 @@ Data Analyst, Software Developer and open source technology enthusiast. I'm stru
 | Google Data Analytics        | Google Academy      | Out 2022    | [Visualizar](#)
 | Database Experience          | DIO                 | Ago 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/database-experience.png)      |
 | Linux Experience             | DIO                 | Jul 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/linux-experience.png)      |
+| Auditor Interno ISO 9001     | Constat             | Ago 2013    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/DESENV-MAINFRAME.png)
 | Desenvolvedor Mainframe      | UPNGO               | Ago 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/DESENV-MAINFRAME.png)
 | Gerenciamento TI             | Intel               | Jul 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/GERENC-TI-INTEL.png)      |
 | Windows 2000 Server          | ACR-Microsoft       | Jul 2002    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/WIN200-SERVER-MICROSOFT.png)      |
