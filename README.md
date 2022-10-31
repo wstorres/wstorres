@@ -78,7 +78,7 @@
 
 | **Learn**                    | **Organization**    | **Period**  | **Link Certified**   |
 | ---------------------------  | ------------------- | ----------- | -------------------- |
-| Lean Six Sigma White Belt | Official Certification CSSC     | Out 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/l6s-white-belt-oficial.png?raw=true)      |
+| Lean Six Sigma White Belt | Official Certification CSSC     | Out 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/l6s-white-belt-oficial.png" target="_blank)      |
 | Banco de Dados               | UNIVESP             | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/banco-dados-univesp.png?raw=true??target=_blank)    |
 | Cybersecurity Introduction   | Cisco Academy       | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/cs-intro.png?raw=true)      |
 | ITSM Foundation              | EXIN                | Mai 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITSM-EXIN.png?raw=true)      |
