@@ -64,7 +64,7 @@
 
 <br />
 
-
+<!--
 ### Education
 
 - [Graduação em Ciência de Dados](#) | *Universidade Nove de Julho (2022 - Atual)*
@@ -110,7 +110,7 @@
 
 <br />
 
-
+-->
 ### New Projects 
 **[Updating ...](#)** New Projects section you will find my most recent work experience:
 
@@ -143,11 +143,10 @@ Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 -->
 <br/>
-<br />
 
 
 
-#### Github Status
+### Github Status
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wstorres.wstorres) 
 
