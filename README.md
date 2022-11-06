@@ -119,7 +119,7 @@
 [<img align="left" height="94px" width="94px" hspace="20" alt="Warpnet" src="./img/deploy10.png"/>](https://wstorres.github.io/curriculo-designer/)
 
 **Front-end Developer** \
-[**Web Profile**](#) • Full-time \
+[**Web Profile**](https://wstorres.github.io/curriculo-designer/) • Full-time \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Github Pages`,\
 Projetos em destaque: [Rocket](#), [Marte](#)
 <br/>
