@@ -116,7 +116,7 @@
 
 
 
-[<img align="left" height="94px" width="94px" hspace="20" alt="Warpnet" src="./img/deploy10.png"/>]([#](https://github.com/wstorres))
+[<img align="left" height="94px" width="94px" hspace="20" alt="Warpnet" src="./img/deploy10.png"/>]([#](https://wstorres.github.io/curriculo-designer/))
 
 **Front-end Developer** \
 [**Web Profile**](#) • Full-time \
