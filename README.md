@@ -96,7 +96,7 @@
 
 <br />
 
-
+-->
 
 ### Work Experience 
 
@@ -110,7 +110,7 @@
 
 <br />
 
--->
+
 ### New Projects 
 **[Updating ...](#)** New Projects section you will find my most recent work experience:
 
