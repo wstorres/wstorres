@@ -114,6 +114,14 @@
 ### New Projects 
 **[Updating ...](#)** New Projects section you will find my most recent work experience:
 
+[<img align="left" height="94px" width="94px" hspace="20" alt="Warpnet" src="./img/deploy10.png"/>](https://wstorres.github.io/curriculo-designer/)
+
+**Implantação ITSM GLPI** \
+[**Web Profile**](https://wstorres.github.io/ITSM-GLPI/) • Full-time \
+Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Github Pages`,\
+Projetos em destaque: [Rocket](#), [Marte](#)
+<br/>
+
 
 
 [<img align="left" height="94px" width="94px" hspace="20" alt="Warpnet" src="./img/deploy10.png"/>](https://wstorres.github.io/curriculo-designer/)
