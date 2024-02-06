@@ -9,7 +9,9 @@
 ### Welcome My Github!
 #### I'm WAGNER TORRES
 
-  Data Analyst, Software Developer and open source technology enthusiast. I'm structuring my career in Data Science, Cloud Computing and Cybersecurity technologies. I talk about technology on my [Twitter](https://twitter.com/wstorresbr). 
+ Cientista de Dados | Especilista em Gestão de Service Desk |
+ 
+ Profissional de Tecnologia com +15 anos de experiência, atuando com grande ênfase em gerenciamento de serviços de TI; implementando soluções, consultoria de sistemas, liderança de equipe, monitoramento de infraestrutura, disponibilidade dos serviços de TI, mapeamento e melhoria de processos, construção de Kpis, cumprimento de Acordos de nível de Serviço estabelecidos com o cliente.[linkedin](https://linkedin.com/in/wstorres). 
  
 ### About me 
 
@@ -48,6 +50,9 @@
 
 <img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/CSSC-WB-Final.png?raw=true">
 
+
+
+
 </div>
 
 <br />
@@ -64,45 +69,24 @@
 
 <br />
 
-<!--
+
 ### Education
 
-- [Graduação em Ciência de Dados](#) | *Universidade Nove de Julho (2022 - Atual)*
+- [Pós-graduação Gerenciamento de Projetos](#) | *Universitade Puntifícia Católica (2003 - Atual)*
+- [Graduação em Ciência de Dados](#) | *Universidade Nove de Julho (2021 - 2023)*
 - [Graduação em Gestão de TI](#) | *Universidade Paulista (2003 - 2006)*
 
 
 <br />
 
 
-### Certifications
-
-| **Learn**                    | **Organization**    | **Period**  | **Link Certified**   |
-| ---------------------------  | ------------------- | ----------- | -------------------- |
-| Lean Six Sigma White Belt | Official Certification CSSC     | Out 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/l6s-white-belt-oficial.png?raw=true)      |
-| Banco de Dados               | UNIVESP             | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/banco-dados-univesp.png?raw=true??target=_blank)    |
-| Cybersecurity Introduction   | Cisco Academy       | Set 2022    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/cs-intro.png?raw=true)      |
-| ITSM Foundation              | EXIN                | Mai 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITSM-EXIN.png?raw=true)      |
-| ITIL Foundation              | EXIN                | Jun 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/ITILV3.png?raw=true)      |
-| AWS Cloud Practitioner       | SENAI               | Set 2022    | [Visualizar](https://www.linkedin.com/feed/update/urn:li:activity:6989566107661578240/)      |
-| Google Data Analytics        | Google Academy      | Out 2022    | [Visualizar](#)
-| Database Experience          | DIO                 | Ago 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/database-experience.png?raw=true)      |
-| Linux Experience             | DIO                 | Jul 2022    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/linux-experience.png?raw=true)      |
-| Auditor Interno ISO 9001     | Constat             | Ago 2013    | [Visualizar](https://github.com/wstorres/certificados-pub/blob/main/ISO-9001-certificado.jpg?raw=true)
-| Desenvolvedor Mainframe      | UPNGO               | Ago 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/DESENV-MAINFRAME.png?raw=true)
-| Gerenciamento TI             | Intel               | Jul 2009    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/GERENC-TI-INTEL.png?raw=true)      |
-| Windows 2000 Server          | ACR-Microsoft       | Jul 2002    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/WIN200-SERVER-MICROSOFT.png?raw=true)      |
-| Capacitação Suporte Téncico  | UOL - INC           | Mar 2002    | [Visualizar](https://raw.githubusercontent.com/wstorres/certificados-pub/main/CAPACI-SUPORTE-UOL.png?raw=true)      |
-
-
-<br />
-
--->
 
 ### Work Experience 
 
 | **Job Position**       | **Company**                            | **Field**            | **Work Period**     |
 | ---------------------- | ---------------------------            | -------------------- | ------------------  |
-| Analista de TI         | Wtime Consultoria Empresarial          | Infra                | Nov 2022 / Atual    |  
+| Supervisor de TI       | Liberty Healt Tech                     | Infra, Negócios      | Abr 2023 / Atual    | 
+| Analista de TI         | Wtime Consultoria Empresarial          | Infra                | Nov 2022 / Abr 2023 |  
 | Analista de TI         | MeriTI Consultoria                     | Infra, Dev           | Jan 2019 / Out 2022 |  
 | Analista de Sistemas   | Constat Consultoria                    | Infra, Dev           | Abr 2011 / Mar 2014 |
 | Analista Sup Sistemas  | MTEL Tecnologia                        | Infra                | Mar 2099 / Abr 2010 |
