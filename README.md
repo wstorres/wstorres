@@ -52,7 +52,7 @@ Technology professional with over 15 years of experience, focusing heavily on IT
 
 <img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/cobit.png?raw=true">
 
-<img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/NetwordingEssentials-01.png?raw=true">
+<img align="justify" width="100" height="100" border="0" hspace="20" src="https://github.com/wstorres/certificados-pub/blob/main/NetworkingEssentials.png?raw=true">
 
 
 
