@@ -9,9 +9,9 @@
 ### Welcome My Github!
 #### I'm WAGNER TORRES
 
- Cientista de Dados | Especilista em Gestão de Service Desk |
- 
- Profissional de Tecnologia com +15 anos de experiência, atuando com grande ênfase em gerenciamento de serviços de TI; implementando soluções, consultoria de sistemas, liderança de equipe, monitoramento de infraestrutura, disponibilidade dos serviços de TI, mapeamento e melhoria de processos, construção de Kpis, cumprimento de Acordos de nível de Serviço estabelecidos com o cliente.[linkedin](https://linkedin.com/in/wstorres). 
+Data Scientist | Service Desk Management Specialist |
+
+Technology professional with over 15 years of experience, focusing heavily on IT service management; implementing solutions, system consulting, team leadership, infrastructure monitoring, IT service availability, process mapping and improvement, KPI development, and compliance with service level agreements established with clients. [Linkedin](https://linkedin.com/in/wstorres). 
  
 ### About me 
 
@@ -64,9 +64,17 @@
 - **Languages**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python, SQL, R, C/C++
 - **Web Analytcs**:&nbsp;                 Excel, Google Sheets, Tableau
 - **Data Base**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySql, Postgre
-- **DevOps**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux, Git, Docker, CI/CD
-- **Cloud**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS, Azure
-
+- **TI Service Management**
+- **Leadership and Team Development**
+- **Data Analysis and Reporting**
+- **Innovation and Problem Solving**
+- **Committed to Excellence and Value Generation**
+- **Process Mapping and Improvement**:&nbsp;   Notation BPMN
+- **Identification of Critical Tasks and Proposal of Solutions**
+- **Monitoring Compliance with Actions**
+- **Process Training and Auditing**
+- **Building KPIs for Process Monitoring**
+- **IT Certifications**:&nbsp;  ITIL, ISO 20000, COBIT, and Lean Six Sigma
 <br />
 
 
@@ -98,11 +106,19 @@
 ### New Projects 
 **[Updating ...](#)** New Projects section you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" hspace="20" alt="Warpnet" src="./img/deploy10.png"/>](https://wstorres.github.io/curriculo-designer/)
+[<img align="left" height="94px" width="94px" hspace="20" alt="Warpnet" src="./img/Ferramenta-GLPI-10-2.png"/>](https://github.com/wstorres/meu-projeto-glpi/)
 
 **Implantação ITSM GLPI** \
-[**Web Profile**](https://wstorres.github.io/ITSM-GLPI/) • Full-time \
-Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Github Pages`,\
+[**PMO**](https://wstorres.github.io/ITSM-GLPI/) • Full-time \
+Linguagens & Tecnologias: `Agil`, `Devops`, `PHP`, `ITIL4`, `ISO20000`, `BPM`\
+Projetos em destaque: [Rocket](#), [Marte](#)
+<br/>
+
+[<img align="left" height="94px" width="94px" hspace="20" alt="Warpnet" src="./img/URA-GoTo.png"/>](https://github.com/wstorres/meu-projeto-ura-goto/)
+
+**Implantação URA GoTo** \
+[**PMO**](https://wstorres.github.io/URA-GOTO/) • Full-time \
+Linguagens & Tecnologias: `Agil`, `Devops`, `BPM`\
 Projetos em destaque: [Rocket](#), [Marte](#)
 <br/>
 
