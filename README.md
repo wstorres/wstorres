@@ -107,9 +107,15 @@ Technology professional with over 15 years of experience, focusing heavily on IT
 <br />
 -->
 ---
-💪💪 Estudo de novas tecnologias 💪💪
+### 💪💪 Estudo de novas tecnologias 💪💪
 
 ![image](https://github.com/user-attachments/assets/879b8acc-9dac-4f4d-805d-8d769497e794)
+![image](https://github.com/user-attachments/assets/35fd092d-7a8e-468b-a422-6ddc8d736c87)
+![image](https://github.com/user-attachments/assets/6fc225bc-7fa7-4b59-9b6e-0e939764e504)
+![image](https://github.com/user-attachments/assets/4103697c-11cf-45af-a380-12bd43c4aab0)
+![image](https://github.com/user-attachments/assets/b01aacf6-510c-4d8b-8561-18c9d9d63076)
+![image](https://github.com/user-attachments/assets/2527b67e-46ee-4bb9-9740-fc8fb4023fca)
+
 
 ---
 
