@@ -106,6 +106,13 @@ Technology professional with over 15 years of experience, focusing heavily on IT
 
 <br />
 -->
+---
+💪💪 Estudo de novas tecnologias 💪💪
+
+![image](https://github.com/user-attachments/assets/879b8acc-9dac-4f4d-805d-8d769497e794)
+
+---
+
 
 ### New Projects 
 **[Updating ...](#)** New Projects section you will find my most recent work experience:
